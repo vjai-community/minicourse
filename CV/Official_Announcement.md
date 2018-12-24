@@ -1,9 +1,9 @@
 
-Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI. Chúng ta sẽ bắt đầu với khoá học về chủ đề `Computer Vision and Deep Learning for beginner`.
+Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI. Chúng ta sẽ khởi động với khoá học đầu tiên về chủ đề `Computer Vision and Deep Learning for beginner`.
 
 ## Mục đích của khoá học
 * Mang lại kiến thức cơ bản về Deep Learning trong lĩnh vực Computer Vision
-* Giúp học viên có cái nhìn toàn diện về những tiến bộ của Deep Learning trong Computer Vision
+* Giúp học viên có cái nhìn khái quát về những tiến bộ của Deep Learning trong Computer Vision
 * Với cách thức vừa học vừa thực hành, khóa học được kỳ vọng sẽ giúp học viên có thể đọc hiểu và thực hành được những thuật toán Deep Learning nổi tiếng trong lĩnh vực Computer Vision
 * Đây là khoá học phi lợi nhuận, ban tổ chức (BTC) và các hướng dẫn viên hoàn toàn tình nguyện vì lợi ích của các thành viên trong cộng đồng VJAI.
 
@@ -45,16 +45,18 @@ Riêng buổi học cuối cùng, sau khi giờ kết thúc, BTC dự kiến s�
 * AI Solutions Architect
 * Tốt nghiệp Thạc sĩ, Đại học Tokyo
 
-And more...!
+(Danh sách người hướng dẫn sẽ liên tục được cập nhật trong thời gian tới)
+
+Khối lượng công việc cần chuẩn bị và hướng dẫn khoá học khá lớn. BTC rất mong các thành viên có kiến thức và kinh nghiệm về Computer Vision hoặc Deep Learning cùng tham gia hướng dẫn khoá học này cùng chúng tôi. Thành viên muốn tham gia hướng dẫn có thể liên hệ với 3 thành viên trên, hoặc comment vào post này.
 
 
 ## Điều kiện tham gia
-* Là người có background về lập trình, đặc biệt là python, nhưng chưa có nhiều kiến thức và kỹ năng về ML/DL
-* Là người muốn học hỏi và tìm hiểu lĩnh vực ML/DL
+* Là người có background về lập trình, đặc biệt là python, đồng thời là người mới bắt đầu học về Machine Learning/Deep Learning (ML/DL)
+* Là người muốn học hỏi thêm và tìm hiểu sâu về lĩnh vực ML/DL
 
 
 ## Thông tin về tài liệu chuẩn bị trước khi tham gia course
-Dưới đây là 1 số tài liệu gợi ý giúp các bạn muốn tham gia khoá học nhưng chưa có đủ kỹ năng lập trình Python và xử lý dữ liệu với Numpy có thể chuẩn bị trước những kỹ năng này.
+Dưới đây là 1 số tài liệu gợi ý giúp các bạn muốn tham gia khoá học nhưng chưa có đủ kỹ năng lập trình Python và xử lý dữ liệu với Numpy có thể học trước để chuẩn bị.
 
 1. Basic on Python:
 * https://www.programiz.com/python-programming/first-program
