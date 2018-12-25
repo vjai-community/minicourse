@@ -1,5 +1,5 @@
 
-Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI. Chúng ta sẽ khởi động với khoá học đầu tiên về chủ đề `Computer Vision and Deep Learning for beginner`.
+Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI. Chúng ta sẽ khởi động với khoá học đầu tiên về chủ đề `Deep Learning in Computer Vision for Beginners`.
 
 ## Mục đích của khoá học
 * Mang lại kiến thức cơ bản về Deep Learning trong lĩnh vực Computer Vision
@@ -17,7 +17,7 @@ Khoá học sẽ bao gồm những nội dung sau
 | Buổi học  | Thời gian | Chủ đề  |
 |---|---|---|
 | 1  | 17/2/2019  | Cơ bản về Computer Vision, làm việc với dữ liệu ảnh và giới thiệu Deep Learning |
-| 2  | 24/2/2019  | Bài toán phân loại ảnh với những thuật toán nổi tiếng: AlexNet, VGG, ImageNet |
+| 2  | 24/2/2019  | Bài toán phân loại ảnh với những thuật toán nổi tiếng: AlexNet, VGG, ResNet |
 | 3  | 3/3/2019  | Bài toán Object-detection với các thuật toán YOLO và RCNN |
 | 4  | 10/3/2019  | Bài toán Semantic-segmentation với thuật toán Mask-RCNN |
 
@@ -30,6 +30,7 @@ Riêng buổi học cuối cùng, sau khi giờ kết thúc, BTC dự kiến s�
 * Bài giảng lý thuyết: ý nghĩa của thuật toán, chi tiết thuật toán, câu hỏi vì sao và để làm gì
 * Thực hành trên code: cách sử dụng những mô hình có sẵn trong thực tế
 * Áp dụng mô hình trên dữ liệu thật để giải quyết bài toán cụ thể
+* Tương tác trực tiếp giữa học viên và các hướng dẫn viên để hiểu sâu các khái niệm và bản chất vấn đề
 
 
 ## Thông tin về người hướng dẫn
@@ -37,7 +38,7 @@ Riêng buổi học cuối cùng, sau khi giờ kết thúc, BTC dự kiến s�
 * AI Research Engineer
 * Tốt nghiệp Thạc sĩ, Đại học Tokyo
 
-2. Cao Vũ Dũng (PhD)
+2. Cao Vũ Dũng
 * AI R&D Engineer, Researcher
 * Tốt nghiệp Tiến sĩ, Học viện Kỹ thuật Tokyo
 
@@ -51,8 +52,8 @@ Khối lượng công việc cần chuẩn bị và hướng dẫn khoá học k
 
 
 ## Điều kiện tham gia
-* Là người có background về lập trình, đặc biệt là python, đồng thời là người mới bắt đầu học về Machine Learning/Deep Learning (ML/DL)
-* Là người muốn học hỏi thêm và tìm hiểu sâu về lĩnh vực ML/DL
+* Là người mới bắt đầu học về Machine Learning/Deep Learning (ML/DL)
+* Là người có background về lập trình, đặc biệt là python
 
 
 ## Thông tin về tài liệu chuẩn bị trước khi tham gia course
@@ -68,13 +69,13 @@ Dưới đây là 1 số tài liệu gợi ý giúp các bạn muốn tham gia k
 * http://cs231n.github.io/python-numpy-tutorial/
 
 
-## Thuê chỗ và học phí tượng trưng
-Vì lý do các buổi học diễn ra trong 4 tuần liên tục, BTC sẽ không đảm bảo có thể mượn được phòng từ các công ty cho tất cả các buổi học. Dự kiến có khoảng 2-3 buổi học sẽ được tổ chức ở phòng thuê ngoài. Do đó, BTC dự định sẽ thu 1 khoản học phí tượng trưng như sau đối với mỗi học viên:
+## Thuê chỗ và học phí
+Vì lý do các buổi học diễn ra trong 4 tuần liên tục, BTC sẽ không đảm bảo có thể mượn được phòng từ các công ty cho tất cả các buổi học. Dự kiến có khoảng 2-3 buổi học sẽ được tổ chức ở phòng thuê ngoài. Do đó, BTC dự định sẽ thu 1 khoản học phí như sau đối với mỗi học viên:
 * 1,000 Yen/ buổi x 4 buổi = 4,000 Yen
 
-Toàn bộ khoản học phí tượng trưng này sẽ được thu tại buổi học đầu tiên.
+Toàn bộ khoản học phí này sẽ được thu tại buổi học đầu tiên.
 
-Lý do BTC thu khoản học phí tượng trưng này như sau:
+Lý do BTC thu khoản học phí này như sau:
 1. Chi trả tiền thuê phòng học cho 2-3 buổi học, những buổi BTC không mượn được phòng từ công ty
 2. Mua nước uống, trà, cafe và 1 ít đồ ăn nhẹ giúp học viên có thêm tinh thần và thể lực để học tập
 3. Chi trả một số khoản chi phí nhỏ có thể phát sinh trong quá trình vận hành khoá học
