@@ -40,7 +40,7 @@ Riêng buổi học cuối cùng, sau khi giờ kết thúc, BTC dự kiến s�
 
 2. Cao Vũ Dũng
 * AI R&D Engineer, Researcher
-* Tốt nghiệp Tiến sĩ, Học viện Kỹ thuật Tokyo
+* Tốt nghiệp Tiến sĩ, Học viện Công nghệ Tokyo
 
 3. Phạm Quang Khang
 * AI Solutions Architect
