@@ -1,18 +1,27 @@
 
 Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI. Chúng ta sẽ khởi động với khoá học đầu tiên về chủ đề `Deep Learning in Computer Vision for Beginners`.
 
-## Mục đích của khoá học
-* Mang lại kiến thức cơ bản về Deep Learning trong lĩnh vực Computer Vision
-* Giúp học viên có cái nhìn khái quát về những tiến bộ của Deep Learning trong Computer Vision
-* Với cách thức vừa học vừa thực hành, khóa học được kỳ vọng sẽ giúp học viên có thể đọc hiểu và thực hành được những thuật toán Deep Learning nổi tiếng trong lĩnh vực Computer Vision
-* Đây là khoá học phi lợi nhuận, ban tổ chức (BTC) và các hướng dẫn viên hoàn toàn tình nguyện vì lợi ích của các thành viên trong cộng đồng VJAI.
+## ĐĂNG KÝ THAM GIA KHOÁ HỌC VÀ QUY ĐỊNH VỀ SỐ LƯỢNG HỌC VIÊN
+Khoá học sẽ không được tổ chức nếu số lượng học viên đăng ký dưới 5.
+Hơn nữa, để đảm bảo chất lượng của khoá học, chúng tôi sẽ giới hạn số lượng học viên không quá 15.
+Nếu có nhiều hơn 15 bạn đăng ký, ban tổ chức (BTC) sẽ lựa chọn thành viên tham gia khoá học theo tiêu chí được nêu trong phần "Điều kiện tham gia".
 
-## Đối tượng
+Form đăng ký tham gia khoá học sẽ được mở vào ngày thứ hai 7/1/2019.
+
+
+## MỤC ĐÍCH CỦA KHOÁ HỌC
+* Mang lại kiến thức cơ bản về Deep Learning trong lĩnh vực Computer Vision
+* Với cách thức vừa học vừa thực hành, khóa học được kỳ vọng sẽ giúp học viên có thể đọc hiểu và thực hành được những thuật toán Deep Learning nổi tiếng trong lĩnh vực Computer Vision
+* Đây là khoá học phi lợi nhuận, BTC và các hướng dẫn viên hoàn toàn tình nguyện vì lợi ích của các thành viên trong cộng đồng VJAI.
+
+
+## ĐỐI TƯỢNG THAM GIA
 * Các bạn có nền tảng lập trình (vì khóa học sẽ tập trung hơn phân nửa thời gian vào thực hành trên code)
 * Các bạn yêu thích AI, Machine Learning, Deep Learning mà đặc biệt là trong ngành Computer Vision
 
-## Khái quát về đề cương
-Khoá học sẽ bao gồm những nội dung sau
+
+## KHÁI QUÁT VỀ ĐỀ CƯƠNG
+Khoá học sẽ bao gồm những nội dung sau:
 
 | Buổi học  | Thời gian | Chủ đề  |
 |---|---|---|
@@ -23,53 +32,20 @@ Khoá học sẽ bao gồm những nội dung sau
 
 * Các buổi học được diễn ra từ 14:30 - 18:30
 
-Riêng buổi học cuối cùng, sau khi giờ kết thúc, BTC dự kiến sẽ tổ chức một bữa tiệc nhỏ nhằm tổng kết khoá học và để các học viên cùng các hướng dẫn viên có cơ hội giao lưu với nhau.
 
-
-## Hình thức học
+## HÌNH THỨC HỌC
 * Bài giảng lý thuyết: ý nghĩa của thuật toán, chi tiết thuật toán, câu hỏi vì sao và để làm gì
 * Thực hành trên code: cách sử dụng những mô hình có sẵn trong thực tế
 * Áp dụng mô hình trên dữ liệu thật để giải quyết bài toán cụ thể
 * Tương tác trực tiếp giữa học viên và các hướng dẫn viên để hiểu sâu các khái niệm và bản chất vấn đề
 
 
-## Thông tin về người hướng dẫn
-1. Nguyễn Phước Tất Đạt
-* AI Research Engineer
-* Tốt nghiệp Thạc sĩ, Đại học Tokyo
-
-2. Cao Vũ Dũng
-* AI R&D Engineer, Researcher
-* Tốt nghiệp Tiến sĩ, Học viện Công nghệ Tokyo
-
-3. Phạm Quang Khang
-* AI Solutions Architect
-* Tốt nghiệp Thạc sĩ, Đại học Tokyo
-
-(Danh sách người hướng dẫn sẽ liên tục được cập nhật trong thời gian tới)
-
-Khối lượng công việc cần chuẩn bị và hướng dẫn khoá học khá lớn. BTC rất mong các thành viên có kiến thức và kinh nghiệm về Computer Vision hoặc Deep Learning cùng tham gia hướng dẫn khoá học này cùng chúng tôi. Thành viên muốn tham gia hướng dẫn có thể liên hệ với 3 thành viên trên, hoặc comment vào post này.
-
-
-## Điều kiện tham gia
+## ĐIỀU KIỆN THAM GIA
 * Là người mới bắt đầu học về Machine Learning/Deep Learning (ML/DL)
 * Là người có background về lập trình, đặc biệt là python
 
 
-## Thông tin về tài liệu chuẩn bị trước khi tham gia course
-Dưới đây là 1 số tài liệu gợi ý giúp các bạn muốn tham gia khoá học nhưng chưa có đủ kỹ năng lập trình Python và xử lý dữ liệu với Numpy có thể học trước để chuẩn bị.
-
-1. Basic on Python:
-* https://www.programiz.com/python-programming/first-program
-
-2. Numpy Tutorial Part 1 – Introduction to Arrays
-* https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
-
-3. Python Numpy Tutorial, by Justin Johnson
-* http://cs231n.github.io/python-numpy-tutorial/
-
-
-## Thuê chỗ và học phí
+## THUÊ CHỖ VÀ HỌC PHÍ
 Vì lý do các buổi học diễn ra trong 4 tuần liên tục, BTC sẽ không đảm bảo có thể mượn được phòng từ các công ty cho tất cả các buổi học. Dự kiến có khoảng 2-3 buổi học sẽ được tổ chức ở phòng thuê ngoài. Do đó, BTC dự định sẽ thu 1 khoản học phí như sau đối với mỗi học viên:
 * 1,000 Yen/ buổi x 4 buổi = 4,000 Yen
 
@@ -84,9 +60,30 @@ Lý do BTC thu khoản học phí này như sau:
 Sau khi trừ đi các khoản chi phí phát sinh, toàn bộ số tiền thu được từ học viên còn dư ra sẽ được sung vào trả 1 phần chi phí buổi tiệc tổng kết cuối khoá học.
 
 
-## Đăng ký tham gia khoá học và quy định về số lượng học viên
-Khoá học sẽ không được tổ chức nếu số lượng học viên đăng ký dưới 5.
-Hơn nữa, để đảm bảo chất lượng của khoá học, chúng tôi sẽ giới hạn số lượng học viên không quá 15.
-Nếu có nhiều hơn 15 bạn đăng ký, BTC sẽ lựa chọn thành viên tham gia khoá học theo tiêu chí được nêu trong phần `Điều kiện tham gia`.
+## THÔNG TIN VỀ NGƯỜI HƯỚNG DẪN
+1. Nguyễn Phước Tất Đạt
+- AI Research Engineer
+- Tốt nghiệp Thạc sĩ, Đại học Tokyo
+2. Cao Vũ Dũng
+- AI R&D Engineer, Researcher
+- Tốt nghiệp Tiến sĩ, Học viện Công nghệ Tokyo
+3. Phạm Quang Khang
+- AI Solutions Architect
+- Tốt nghiệp Thạc sĩ, Đại học Tokyo
 
-Form đăng ký tham gia khoá học sẽ được mở vào ngày thứ hai 7/1/2019.
+(Danh sách người hướng dẫn sẽ liên tục được cập nhật trong thời gian tới)
+
+Khối lượng công việc cần chuẩn bị và hướng dẫn khoá học khá lớn. BTC rất mong các thành viên có kiến thức và kinh nghiệm về Computer Vision hoặc Deep Learning cùng tham gia hướng dẫn khoá học này cùng chúng tôi. Thành viên muốn tham gia hướng dẫn có thể liên hệ với 3 thành viên trên, hoặc comment vào post này.
+
+
+## THÔNG TIN VỀ TÀI LIỆU CHUẨN BỊ TRƯỚC KHI THAM GIA KHOÁ HỌC
+Dưới đây là 1 số tài liệu gợi ý giúp các bạn muốn tham gia khoá học nhưng chưa có đủ kỹ năng lập trình Python và xử lý dữ liệu với Numpy có thể học trước để chuẩn bị.
+
+1. Basic on Python:
+* https://www.programiz.com/python-programming/first-program
+
+2. Numpy Tutorial Part 1 – Introduction to Arrays
+* https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+
+3. Python Numpy Tutorial, by Justin Johnson
+* http://cs231n.github.io/python-numpy-tutorial/
