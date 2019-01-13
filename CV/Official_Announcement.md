@@ -28,7 +28,7 @@ Khoá học sẽ bao gồm những nội dung sau:
 | 1  | 17/2/2019  | Cơ bản về Computer Vision, làm việc với dữ liệu ảnh và giới thiệu Deep Learning |
 | 2  | 24/2/2019  | Bài toán phân loại ảnh với những thuật toán nổi tiếng: AlexNet, VGG, ResNet |
 | 3  | 3/3/2019  | Bài toán Object-detection với các thuật toán YOLO và RCNN |
-| 4  | 10/3/2019  | Bài toán Semantic-segmentation với thuật toán Mask-RCNN |
+| 4  | 10/3/2019  | Bài toán Instance-segmentation với thuật toán Mask-RCNN |
 
 * Các buổi học được diễn ra từ 14:30 - 18:30
 
