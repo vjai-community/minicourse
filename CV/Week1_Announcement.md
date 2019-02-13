@@ -6,9 +6,8 @@ BTC xin thông báo địa điểm và nhắc lại thời gian buổi học nh�
 東京都渋谷区桜丘町31-14 岡三桜丘ビル１階
 Map: https://goo.gl/maps/tQDdQXbj2TR2
 
-🕒 Thời gian: 14h30~18h30 Chủ nhật - 17/02/2019
-(mở cửa từ 14h00 ~ 14h25)
-Mong các bạn đến trước 14h30 để buổi học được bắt đầu đúng giờ.
+🕒 Thời gian: 14h00~18h30 Chủ nhật - 17/02/2019
+Mong các bạn đến đúng 14h00 để thực hiện 1 số công việc chuẩn bị trước khi bắt đầu buổi học.
 
 ℹ️ Hướng dẫn:
 - Từ ga Shibuya, ra cửa Tây
