@@ -14,7 +14,11 @@ Mong các bạn đến đúng 14h00 để thực hiện 1 số công việc chu�
 - Băng qua cầu vượt đi về phía Celurean Tower
 - Đi dọc theo đường 246 bên tay trái qua khỏi Celurean Tower chừng 150m thì gặp Cafe de Crie, tiếp theo là Slack Shibuya ngay mặt tiền.
 
-📖 Nội dung buổi 1: Cơ bản về Computer Vision, làm việc với dữ liệu ảnh và giới thiệu Deep Learning
+📖 Nội dung buổi 1:
+- Cơ bản về Computer Vision
+- Giới thiệu Neural Network, Deep Learning và cơ chế hoạt động
+- Làm việc với dữ liệu ảnh
+- Làm quen với Keras và viết chương trình huấn luyện mô hình Deep Learning
 
 Mong sớm gặp mọi người và chúc các bạn học tập tốt!
 BTC VJAI Mini course
